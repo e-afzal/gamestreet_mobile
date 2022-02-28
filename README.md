@@ -1,6 +1,6 @@
-# game_street
+# GameStreet Flutter App
 
-A new Flutter project.
+GameStreet mobile application created using the Flutter SDK.
 
 ## Getting Started
 
