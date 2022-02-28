@@ -1,4 +1,4 @@
-# GameStreet Flutter App
+# GameStreet Mobile App
 
 GameStreet mobile application created using the Flutter SDK.
 
